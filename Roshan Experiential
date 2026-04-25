@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile Page</title>
+</head>
+<body>
+
+    <h2>Profile</h2>
+
+    <!-- Left Section -->
+    <div>
+        <h3>RM</h3>
+        <p><b>Name:</b> Roshan Mehar</p>
+        <p><b>Role:</b> Web Developer</p>
+        <p><b>Location:</b> India</p>
+        <p><b>Email:</b> roshan@email.com</p>
+    </div>
+
+    <hr>
+
+    <!-- Right Section -->
+    <div>
+        <h3>Skills Offered</h3>
+        <p>HTML, CSS, Basic Java, Communication</p>
+
+        <h3>Skills Wanted</h3>
+        <p>Python, Web Development, UX Design</p>
+
+        <h3>About Me</h3>
+        <p>
+            I love building websites and sharing skills.
+            Looking to connect with Python and Web development.
+        </p>
+    </div>
+
+</body>
+</html>
